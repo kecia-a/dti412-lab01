@@ -31,3 +31,15 @@ Future Development Plan
 Technical skills, I want to improve: Backend development, programming, problem-solving, and database management
 Technologies I want to learn: Git, GitHub, Node.js, Express.js, SQL, and backend development tools
 Dream Job Position: Full-Stack Web Developer
+
+Semester Goald
+
+Learn Django
+Learn REST API Development
+Learn Cloud Deployment
+
+Portfolio Projects
+
+1. Studment Management System
+2. Internship Management System
+3. Inventory Management System
